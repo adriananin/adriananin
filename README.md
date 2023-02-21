@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian 👋
 
-![Crafting Beautiful and Responsive Web Interfaces](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Crafting Beautiful and Responsive Web Interfaces](https://github.com/adriananin/adriananin/blob/main/banner.png)
 
 I am a junior frontend developer who is passionate about creating user-friendly and visually appealing websites. I am currently learning new technologies and frameworks to enhance my skills and stay up to date with industry trends. I enjoy collaborating with others and working in a team environment to create innovative solutions.
 
