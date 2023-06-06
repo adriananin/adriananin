@@ -16,7 +16,7 @@ I am a junior frontend developer who is passionate about creating user-friendly 
 I am constantly learning and improving my skills. Currently, I am focusing on:
 
 * React concepts
-* CSS animations and transitions
+* Accessibility
 * Performance optimization techniques
 * Web3 and Blockchain-Powered Frontend Engineering
 
