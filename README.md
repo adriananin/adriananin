@@ -1,24 +1,18 @@
 # Hi there, I'm Adrian 👋
 
-![Crafting Beautiful and Responsive Web Interfaces](https://github.com/adriananin/adriananin/blob/main/banner.png)
-
-I am a junior frontend developer who is passionate about creating user-friendly and visually appealing websites. I am currently learning new technologies and frameworks to enhance my skills and stay up to date with industry trends. I enjoy collaborating with others and working in a team environment to create innovative solutions.
+I am a frontend developer who is passionate about creating user-friendly and visually appealing websites. I am currently learning new technologies and frameworks to enhance my skills and stay up to date with industry trends. I enjoy collaborating with others and working in a team environment to create innovative solutions.
 
 ### 🛠️ Skills 
 
 * HTML
 * CSS
 * JavaScript
+* React
 * Git
+* Webpack
+* Vite
+* Test-Driven Development (TDD) with Jest
 
-### 📚 Learning
-
-I am constantly learning and improving my skills. Currently, I am focusing on:
-
-* React concepts
-* Accessibility
-* Performance optimization techniques
-* Web3 and Blockchain-Powered Frontend Engineering
 
 ### 💻 Projects
 
