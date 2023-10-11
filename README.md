@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian 👋
 
-I am a frontend developer who is passionate about creating user-friendly and visually appealing websites. I am currently learning new technologies and frameworks to enhance my skills and stay up to date with industry trends. I enjoy collaborating with others and working in a team environment to create innovative solutions.
+I am a fullstack developer who is passionate about creating user-friendly and visually appealing websites. I am currently learning new technologies and best practices to enhance my skills and stay up to date with industry trends. I enjoy collaborating with others and working in a team environment to create innovative solutions.
 
 ### 🛠️ Skills 
 
@@ -10,7 +10,8 @@ I am a frontend developer who is passionate about creating user-friendly and vis
 * React
 * Git
 * Webpack
-* Vite
+* NodeJS
+* MongoDb
 * Test-Driven Development (TDD) with Jest
 
 
