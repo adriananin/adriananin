@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian 👋
 
-A fullstack developer passionate about creating user-friendly and visually appealing web apps. I enjoy collaborating with others and working in a team environment to create innovative solutions.
+A fullstack developer passionate about creating user-friendly and visually appealing web and mobile apps. I enjoy collaborating with others and working in a team environment to create innovative solutions.
 
 ## 🤝 Contact Me
 
